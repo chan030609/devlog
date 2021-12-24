@@ -4,6 +4,6 @@ This is a drive for storing notes for my personal study.
 
 ## List
 
-[C++ Tutorial](./note.md)
+[C++ Tutorial](./cpp_tutorial/note.md)
 
 [OpenCV Tutorial]()
