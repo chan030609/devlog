@@ -6,4 +6,4 @@ This is a drive for storing notes for my personal study. Thou wilt probably neve
 
 [C++ Tutorial](./cpp_tutorial/note.md)
 
-[OpenCV Tutorial](./opencv_tutorial/note.md)
+[OpenCV for Python Tutorial](./opencv_tutorial/note.md)
